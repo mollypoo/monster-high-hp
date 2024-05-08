@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    margin: 0px; 
+}
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+img {
+    width: 320px;
+    height: 190px;
+    margin-right: 20px;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 4px;
+    box-shadow: 00 10px black;
+}
+.header { 
+    background-color: rgb(95, 62, 156);
+    padding: 10px;
+    color: white;
+}
+.team {
+    background-color: rgb(233, 50, 199);
+    padding: 10px;
+}
+.clients {
+    background-color: rgb(232, 170, 230);
+    padding: 10px;
+}
+.development {
+    background-color: rgb(133, 9, 115);
+    padding: 10px;
+}
+.footer {
+    background-color: rgb(230, 76, 212);
+    padding: 10px;
+    color: white;
+}
+.software {
+    color: rgb(255, 0, 251);
+}
+.solutions {
+    color: rgb(0, 200, 255);
+}
+
